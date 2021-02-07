@@ -1,1 +1,1 @@
-console.log('login routes 2')
+console.log('login routes')
