@@ -19,5 +19,8 @@
   "homepage": "https://github.com/sSahli232/test-git#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
   }
 }
